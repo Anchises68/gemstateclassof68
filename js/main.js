@@ -20,7 +20,6 @@ const alumniBio = [
   },
   {
     'name': "Molly",
-
     'image': {
       'desc': "John Doe Photo",
       'src': "images/sample3.jpg"
@@ -35,7 +34,6 @@ const alumniBio = [
   },
   {
     'name': "Pepe",
-
     'image': {
       'desc': "John Doe Photo",
       'src': "images/sample5.jpg"
@@ -50,7 +48,6 @@ const alumniBio = [
   },
   {
     'name': "Karl",
-
     'image': {
       'desc': "John Doe Photo",
       'src': "images/sample7.jpg"

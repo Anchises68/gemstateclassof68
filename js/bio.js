@@ -21,7 +21,7 @@ class BioBubble extends React.Component {
     let example = this.props.example;
     return (
       <div className="w3-col l3 m6 w3-margin-bottom">
-        <img src={ example.image.src } alt={ example.image.desc }/>
+        <img  desc={ example.image.desc } src={ example.image.src } />
         <h3>{ example.name }</h3>
         <p><button className="w3-button w3-light-grey w3-block">Read { example.name }'s Bio</button></p>
       </div>
@@ -30,3 +30,4 @@ class BioBubble extends React.Component {
   }
 
 export default Bios;
+export { BioBubble };
