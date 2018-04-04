@@ -1,66 +1,32 @@
 import React from 'react';
-import {bio-modal} from "./bio-modal.js";
+
 
 class Bios extends React.Component {
-  constructor(props) {
-    super(props);
-
-    this.state = {
-      'modalOpen': false,
-      'selectedBio': this.props.bio[0]
-    };
-
-    this.openModal = this.openModal.bind(this);
-    this.closeModal = this.closeModal.bind(this);
-  }
-
-  openModal(evt, bio) {
-    this.setState({
-      'modalOpen': true,
-      'selectedBio': bio
-    });
-  }
-
-  closeModal(evt, bio) {
-    this.setState({
-      'modalOpen': false
-    });
-  }
   render() {
     return (
-      <span>
-        <div class="w3-row-padding w3-grayscale">
-
-          { this.props.bios.map( (bio, idx) => {
-            return (
-              <Classmates bio={bio} key={idx} openModal={this.openModal}/>
-            )
-          })
-          }
-
-        </div>
-        <BioModal bio={this.state.selectedBio}
-          open={this.state.modalOpen} closeModal={this.state.closeModal} />
-      </span>
+      <div className="w3-row-padding w3-grayscale">
+        { this.props.alumni.map ( (example, idx) => {
+          return (
+            <BioBubble example={example} key={idx} />
+          )
+        })
+        }
+      </div>
     )
   }
 }
 
-
-class Classmates extends React.Component {
-  render () {
-    let bio = this.props.bio;
+class BioBubble extends React.Component {
+  render() {
+    let example = this.props.example;
     return (
-        <div>
-          <div class="w3-col l3 m6 w3-margin-bottom" >
-            <img src={bio.image} style="width:100%" height="400px" />
-            <h3>{bio.name}</h3>
-              <p><button class="w3-button w3-light-grey w3-block" onClick={ (evt) => this.props.openModal(evt, bio) } >Read More</button></p>
-            </div>
-          </div>
-          )
-        }
-      }
+      <div className="w3-col l3 m6 w3-margin-bottom">
+        <img src={ example.image.src } alt={ example.image.desc }/>
+        <h3>{ example.name }</h3>
+        <p><button className="w3-button w3-light-grey w3-block">Read { example.name }'s Bio</button></p>
+      </div>
+     )
+    }
+  }
 
 export default Bios;
-export { Classmates };
