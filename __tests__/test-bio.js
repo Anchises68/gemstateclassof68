@@ -12,38 +12,51 @@ const alumniBio = [
       'src': "images/sample1.jpg",
       'desc': "John Doe Photo"
 
-    }
+    },
+    'bio': "All about you"
   },
   {
     'name': "Bob",
     'image': {
       'src': "images/sample2.jpg",
       'desc': "John Doe Photo"
-
-    }
+    },
+    'bio': "All about you"
   }
 ];
 
 describe("Bios component", () => {
   let component = shallow(<Bios alumni={alumniBio} />);
 
-  it("Should be a 'div' element", () => {
-    expect(component.type()).toEqual('div');
+  it("Should be a 'span' element", () => {
+    expect(component.type()).toEqual('span');
 
   });
 
   it("Should contain as many children as there are bios", () => {
     expect(component.find("BioBubble").length).toEqual(alumniBio.length);
+  });
+
+  it("Should allow modal to open and close", () => {
+    component.instance().openModal();
+    expect(component.instance().state.modalOpen).toBe(true);
+    component.instance().closeModal();
+    expect(component.instance().state.modalOpen).toBe(false);
   })
 });
 
-/*haven't gotten it to work yet*/
-/*describe("BioBubble component", () => {
-  let component = shallow(<BioBubble alumni={alumniBio[1]}/>);
+describe("BioBubble component", () => {
+  let mockOpenModalFn = jest.fn();
+  let component = shallow(<BioBubble example={alumniBio[1]} openModal={mockOpenModalFn} />);
   let images = component.find("img");
 
   it("Should contain a single 'img' element", () => {
     expect(images.length).toEqual(1);
-  })
+  });
+  /*Haven't been able to make it work yet
+  it("Should call the openModal handler when clicked", () => {
+    component.find(".w3-button w3-light-grey w3-block").simulate('click');
+    expect(mockOpenModalFn).toHaveBeenCalled();
+  })*/
 
-});*/
+});
