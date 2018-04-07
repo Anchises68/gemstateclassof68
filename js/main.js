@@ -9,7 +9,7 @@ const alumniBio = [
       'desc': "John Doe Photo",
       'src': "images/team1.jpg"
     },
-    'bio': "All about you"
+    'bio': "put in bio right here"
   },
   {
     'name': "Bob",
@@ -40,7 +40,9 @@ const alumniBio = [
     'image': {
       'desc': "John Doe Photo",
       'src': "images/sample6.jpg"
-    }
+
+    },
+    'bio': "lorem ipsum"
   },
   {
     'name': "Sam",

@@ -4,17 +4,35 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="styles/main.css">
 
 <style media="screen">
   img {
-      -webkit-filter: sepia(100%); /* Safari */
-      filter: sepia(75%) drop-shadow(8px 8px 10px gray);
-      width: 100%;
+    width: 100%;
+    box-shadow: 6px 6px 8px 0 rgba(0, 0, 0, 0.2), 4px 6px 20px 0 rgba(0, 0, 0, 0.19);
   }
 
+  .header-font-classof68 {
+    text-transform: uppercase;
+    font-weight: bold;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+  }
 
+  .header-font {
+    text-transform: uppercase;
+    font-weight: bold;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+  }
+
+  .header-image {
+
+    -webkit-filter: sepia(100%); /* Safari */
+    filter: sepia(75%);
+    opacity: 0.80;
+  }
 </style>
-<link rel="stylesheet" href="styles/main.css">
 
 <body>
 
@@ -24,27 +42,43 @@
     <!--<a href="#home" class="w3-bar-item w3-button"><b>BR</b> Architects</a>-->
     <!-- Float links to the right. Hide them on small screens -->
     <div class="w3-right w3-hide-small">
+      <a href="#contact" class="w3-bar-item w3-button"><h3>News</h3></a>
+      <a href="#about" class="w3-bar-item w3-button"><h3>Classmates</h3></a>
       <a href="#projects" class="w3-bar-item w3-button"><h3>Reunion Photos</h3></a>
-      <a href="#about" class="w3-bar-item w3-button"><h3>Classmate Bios</h3></a>
-      <!--<a href="#contact" class="w3-bar-item w3-button">Contact</a>-->
     </div>
   </div>
 </div>
 
 <!-- Header -->
 <header class="w3-display-container w3-content w3-wide" style="max-width:1500px;" id="home">
-  <img src="/images/836.jpg" alt="GSA" width="1500" height="800" >
+  <img src="/images/836.jpg" alt="GSA" width="1500" height="800" class="header-image" >
   <div class="w3-display-middle w3-margin-top w3-center">
-    <h1 class="w3-jumbo w3-text-white"><!--<span class="w3-padding w3-black w3-opacity-min"><b>BR</b></span>--> <span class="w3-hide-small w3-text-light-grey">Gem State Academy</span></h1>
-    <h1 class="w3-jumbo w3-text-white">Class of 1968</h1>
-    <h1 class="w3-jumbo w3-text-white">50th Reunion</h1>
+    <h1><svg height="25" width="400"><line x1="0" y1="0" x2="500" y2="0" style="stroke:rgb(255,255,255);stroke-width:4" />Sorry, your browser does not support inline SVG.</svg></h1>
+    <h1 class="w3-jumbo w3-text-white header-font">Gem State Academy</h1>
+    <h1 class="w3-jumbo w3-text-yellow header-font-classof68">Class of 1968</h1>
+    <h2 class="w3-jumbo w3-text-white header-font">50th Reunion</h2>
+
   </div>
 </header>
 
 <!-- Page content -->
 <div class="w3-content w3-padding" style="max-width:1564px">
 
-  <!-- Project Section -->
+  <!-- News Section -->
+  <div class="w3-container w3-padding-32" id="about">
+    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">News</h3>
+    <p>Old Geezers say what</p>
+  </div>
+
+  <!-- Classmate Section -->
+  <div class="w3-container w3-padding-32" id="about">
+    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">Classmates</h3>
+    <p></p>
+  </div>
+
+  <div id="bio"></div>
+
+  <!-- Reunion Photos Section -->
   <div class="w3-container w3-padding-32" id="projects">
     <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">Reunion Photos</h3>
   </div>
@@ -102,14 +136,13 @@
       </div>
     </div>
   </div>
-
-  <!-- About Section -->
+  <!-- Empty Section -->
   <div class="w3-container w3-padding-32" id="about">
-    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">Classmate Bios</h3>
+    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16"></h3>
     <p></p>
   </div>
 
-  <div id="bio"></div>
+
 
   <!-- Contact Section -->
   <!--<div class="w3-container w3-padding-32" id="contact">
@@ -134,6 +167,7 @@
 
 <!-- Footer -->
 <footer class="w3-center w3-black w3-padding-16">
+  <p>Created by Mireles Communications - MirelesCloud</p>
   <p>Powered by <a href="https://www.w3schools.com/w3css/default.asp" title="W3.CSS" target="_blank" class="w3-hover-text-green">w3.css</a></p>
 </footer>
 

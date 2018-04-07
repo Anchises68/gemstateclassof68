@@ -47,10 +47,10 @@
 }
 .popup {
     display: block;
-    width: 60vw;
+    width: 80vw;
     height: auto;
-    margin-left: 20vw;
-    padding: 5vw 10vw;
+    margin-left: 10vw;
+    padding: 1vw 10vw;
     background-color: #ffffff;
     transition: all 0.5s ease-in-out;
     box-sizing: border-box;
@@ -73,10 +73,10 @@
     display: inline-block;
     text-decoration: none;
     text-align: center;
-    font-size: 2vw;
+    font-size: 1vw;
     padding: 1vw 2vw;
     margin-top: 10vw;
-    margin-bottom: 5vw;
+    margin-bottom: 1vw;
     color: #000000;
     border: 1px solid #000000;
     position: relative;
@@ -87,21 +87,22 @@
 .popup-content {
     width: 100%;
     height: auto;
+
 }
 .popup-content h1 {
-    font-size: 3vw;
+    font-size: 2vw;
     font-weight: 200;
     color: #000000;
     text-align: center;
 }
-.popup-content h3 {
-    font-size: 3vw;
+.popup-content h4 {
+    font-size: 1vw;
     font-weight: 300;
     text-align: center;
     color: #000000;
 }
 .popup-content p {
-    font-size: 2vw;
+    font-size: 1vw;
     color: #000000;
 }
 .popup-content span {
@@ -114,11 +115,11 @@
 /*About Page Content Start*/
 /**************************/
 .popup-content .profile-image {
-    width: 70vw;
+    width: 20vw;
     height: auto;
-    margin-top: 12vw;
+    margin-top: 2vw;
     position: relative;
-    left: 70%;
+    left: 50%;
     transform: translate(-50%, 0);
 }
 .about-me {
