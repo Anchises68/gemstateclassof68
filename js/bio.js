@@ -2,6 +2,7 @@ import React from 'react';
 import BioModal from './bio-modal';
 
 
+
 class Bios extends React.Component {
   constructor(props) {
     super(props);
@@ -14,10 +15,10 @@ class Bios extends React.Component {
     this.closeModal = this.closeModal.bind(this);
   }
 
-  openModal(evt, example) {
+  openModal(evt, alumni) {
     this.setState({
       'modalOpen': true,
-      'selectedBio': example
+      'selectedBio': alumni
     });
   }
 
@@ -27,20 +28,18 @@ class Bios extends React.Component {
     });
   }
 
-
   render() {
     return (
       <span>
         <div className="w3-row-padding w3-grayscale">
-          { this.props.alumni.map ( (example, idx) => {
+          { this.props.alumni.map ( (alumni, idx) => {
             return (
-              <BioBubble example={example} key={idx} openModal={this.openModal}/>
+              <BioBubble alumni={alumni} key={idx} openModal={this.openModal}/>
             )
           })
           }
         </div>
-
-        <BioModal example={this.state.selectedBio} open={this.state.modalOpen} closeModal={this.closeModal}/>
+        <BioModal alumni={this.state.selectedBio} open={this.state.modalOpen} closeModal={this.closeModal}/>
       </span>
     )
   }
@@ -48,12 +47,12 @@ class Bios extends React.Component {
 
 class BioBubble extends React.Component {
   render() {
-    let example = this.props.example;
+    let alumni = this.props.alumni;
     return (
       <div className="w3-col l2 m6 w3-margin-bottom">
-        <img  desc={ example.image.desc } src={ example.image.src } />
-        <h4>{ example.name }</h4>
-        <p><button className="w3-button w3-light-grey w3-block" onClick={ (evt) => this.props.openModal(evt, example) } >Read { example.name }'s Bio</button></p>
+        <img  desc={ alumni.image.desc } src={ alumni.image.src } />
+        <h4>{ alumni.name }</h4>
+        <p><button className="w3-button w3-light-grey w3-block" onClick={ (evt) => this.props.openModal(evt, alumni) }> Read { alumni.name }'s Bio</button></p>
       </div>
      )
     }

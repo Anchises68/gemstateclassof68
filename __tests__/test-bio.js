@@ -30,7 +30,6 @@ describe("Bios component", () => {
 
   it("Should be a 'span' element", () => {
     expect(component.type()).toEqual('span');
-
   });
 
   it("Should contain as many children as there are bios", () => {
@@ -47,16 +46,16 @@ describe("Bios component", () => {
 
 describe("BioBubble component", () => {
   let mockOpenModalFn = jest.fn();
-  let component = shallow(<BioBubble example={alumniBio[1]} openModal={mockOpenModalFn} />);
+  let component = shallow(<BioBubble alumni={alumniBio[1]} openModal={mockOpenModalFn} />);
   let images = component.find("img");
 
   it("Should contain a single 'img' element", () => {
     expect(images.length).toEqual(1);
   });
-  /*Haven't been able to make it work yet
+
   it("Should call the openModal handler when clicked", () => {
-    component.find(".w3-button w3-light-grey w3-block").simulate('click');
+    component.find(".w3-button").simulate('click');
     expect(mockOpenModalFn).toHaveBeenCalled();
-  })*/
+  })
 
 });

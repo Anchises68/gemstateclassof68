@@ -16,20 +16,17 @@ const alumniBio = {
 
 
 describe("BioModal component", () => {
-  let component = shallow(<BioModal example={alumniBio} open={false} />);
-  let openComponent = shallow(<BioModal example={alumniBio} open={true} />);
+  let component = shallow(<BioModal alumni={alumniBio} open={false} />);
+  let openComponent = shallow(<BioModal alumni={alumniBio} open={true} />);
 
   let anchors = component.find("a");
 
   it("Should contain a single 'a' element", () => {
     expect(anchors.length).toEqual(1);
   });
-  /*haven't been able to make it work yet
+
   it("Should have the modal class set correctly", () => {
-    expect(component.find(".background--skyBlue").hasClass("modal--closed")).toBe(true);
-    expect(openComponent.find(".background--skyBlue").hasClass("modal--open")).toBe(true);
-
-  });*/
-
-
+    expect(component.find(".overlay").hasClass("modal--closed")).toBe(true);
+    expect(openComponent.find(".overlay").hasClass("modal--open")).toBe(true);
+  });
 });
