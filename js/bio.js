@@ -31,6 +31,11 @@ class Bios extends React.Component {
   render() {
     return (
       <span>
+        {/*<!-- Classmate Section -->*/}
+        <div class="w3-container w3-padding-32" id="about">
+          <h2 class="w3-border-bottom w3-border-light-grey w3-padding-16">Classmates</h2>
+          <p></p>
+        </div>
         <div className="w3-row-padding w3-grayscale">
           { this.props.alumni.map ( (alumni, idx) => {
             return (

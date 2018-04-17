@@ -34,10 +34,10 @@ class Photos extends React.Component {
           <h2 class="w3-border-bottom w3-border-light-grey w3-padding-16">Reunion Photos</h2>
         </div>
         <section>
-          <div class="w3-row-padding">
+          <div class="w3-row-padding" >
             { this.props.photo.map ( (photo, idx) => {
               return (
-                <PhotoBubble photo={photo} key={idx} openPhoto={this.openPhoto}/>
+                <PhotoBubble photo={photo} key={idx} openPhoto={this.openPhoto} />
               )
             })
             }
@@ -53,9 +53,9 @@ class Photos extends React.Component {
     render() {
       let photo = this.props.photo;
       return (
-        <div className="w3-col l2 m6 w3-margin-bottom">
+        <div className="w3-col l3 m6 w3-margin-bottom">
           <div className="w3-display-container">
-            <button className="w3-button w3-display-bottomright w3-grey w3-padding" onClick={ (evt) => this.props.openPhoto(evt, photo)}>Open</button>
+            <button className="w3-button w3-display-bottomright w3-black w3-padding" onClick={ (evt) => this.props.openPhoto(evt, photo)}>Open</button>
             <img src={ photo.image } />
           </div>
         </div>

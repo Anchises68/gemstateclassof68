@@ -12,6 +12,7 @@ class PhotoModal extends React.Component {
             <img src={ photo.image } className="reunion-image"/>
           </div>
           <a className="button w3-button w3-light-grey" onClick={ this.props.closePhoto }>Close</a>
+          <a className="button-right w3-button w3-light-grey" onClick=""> > </a>
         </div>
       </div>
     )
