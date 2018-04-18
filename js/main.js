@@ -539,6 +539,93 @@ const alumniAlbum = [
   },
   {
     'image': "images/IMG_0082.jpg"
+  },
+  {
+    'image': "images/Reunion1.jpg"
+  },
+  {
+    'image': "images/Reunion2.jpg"
+  },
+  {
+    'image': "images/Reunion3.jpg"
+  },
+  {
+    'image': "images/Reunion4.jpg"
+  },
+  {
+    'image': "images/Reunion5.jpg"
+  },
+  {
+    'image': "images/Reunion6.jpg"
+  },
+  {
+    'image': "images/Reunion7.jpg"
+  },
+  {
+    'image': "images/Reunion8.jpg"
+  },
+  {
+    'image': "images/Reunion9.jpg"
+  },
+  {
+    'image': "images/Reunion10.jpg"
+  },
+  {
+    'image': "images/Reunion11.jpg"
+  },
+  {
+    'image': "images/Reunion12.jpg"
+  },
+  {
+    'image': "images/Reunion13.jpg"
+  },
+  {
+    'image': "images/Reunion14.jpg"
+  },
+  {
+    'image': "images/Reunion15.jpg"
+  },
+  {
+    'image': "images/Reunion16.jpg"
+  },
+  {
+    'image': "images/Reunion17.jpg"
+  },
+  {
+    'image': "images/Reunion18.jpg"
+  },
+  {
+    'image': "images/Reunion19.jpg"
+  },
+  {
+    'image': "images/Reunion20.jpg"
+  },
+  {
+    'image': "images/Reunion21.jpg"
+  },
+  {
+    'image': "images/Reunion22.jpg"
+  },
+  {
+    'image': "images/Reunion23.jpg"
+  },
+  {
+    'image': "images/Reunion24.jpg"
+  },
+  {
+    'image': "images/Reunion25.jpg"
+  },
+  {
+    'image': "images/Reunion26.jpg"
+  },
+  {
+    'image': "images/Reunion27.jpg"
+  },
+  {
+    'image': "images/Reunion28.jpg"
+  },
+  {
+    'image': "images/Reunion29.jpg"
   }
 ]
 
