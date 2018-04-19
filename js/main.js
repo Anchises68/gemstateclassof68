@@ -29,19 +29,42 @@ const alumniBio = [
     'bio': "After graduating from GSA, I began my college education at WWU, PUC and LLU, where I finished my degree in Physical Therapy.  During that time I was privileged to have Nancy Crisp Worley as a classmate and Donna Miracle-Judy was in the following class.  At LLU, I met my husband, Ken, who is a Dentist.  We live in Hermiston, OR and have celebrated our 45th anniversary last year.  We have 3 sons, a daughter and 4 grandchildren.  In our spare time we love camping, kayaking, motorcycling and bicycling as well as gardening.  One of my favorite trips was with NADAD (National Association of SDA Dentists) to visit and learn stories of our early Advent history.  Standing on “Ascension Rock”, getting a glimpse of how the pioneers felt Oct 22, 1844 when they expected the Lord to come.  This May/June we are looking forward to a trip with the GC Great Controversy Tour in Europe.  We will be studying as we visit various sites of the Reformation.  It is inspiring to me how these faithful believers stood victorious in the Lord.  My greatest desire is to faithful to the Lord, and I pray that our next reunion will find each one of us gathered by the Sea of Glass praising the Lord.  Caryn"
   },
   {
-    'name': "Dennis Mack",
-    'image': {
-      'desc': "Dennis Mack Photo",
-      'src': "images/DennisMack.jpg"
-    },
-    'bio': "Lorem ipsum dolor sit amet, ad sea mazim audire, ex porro euismod est. Fierent postulant est id, vis sumo alterum albucius at, in possim laboramus sed. An prodesset moderatius pro, vix te ponderum insolens, clita voluptua oporteat cum cu. In dicunt platonem his. Pro at noster necessitatibus, vel option inermis appellantur id, vix no probo molestiae.  Bonorum albucius mea ad. Minimum eleifend adolescens an mei, veri invenire maiestatis vis no. At sed erant civibus mnesarchum, cu viderer integre iuvaret nec. Sea veri voluptaria ullamcorper at.  Ex essent reformidans sit, usu ne nonumy iisque. Eu malis vitae similique sit, vim propriae deseruisse in. Et graecis salutandi mea, id cibo partiendo eos. Eos tale consequat liberavisse ea. Mazim viris accumsan usu at, legere mnesarchum no vel, eos quis everti cu.  Cum no suas vocibus referrentur, nostro audire te eum. No vix veniam dictas disputando, ea qui splendide mediocritatem. At clita persequeris est. Nulla veritus moderatius eu eum, vis ornatus insolens interesset id, eam purto volutpat honestatis ea. No sea clita regione petentium, dictas voluptatum ullamcorper cu qui.  Eu ius novum possim, no sea blandit aliquando, sea dico simul temporibus ex. Ad putant ceteros vix, eum et aliquando torquatos, clita volutpat ut cum. Mel id habeo putent suavitate. Nam te brute clita, adipisci instructior ea vim. Tota scaevola pertinax nec ad, at sanctus splendide mel."
-  },
-
-  {
     'name': "Clinton Schultz",
     'image': {
       'desc': "Clinton Schultz Photo",
       'src': "images/ClintonSchultz.jpg"
+    },
+    'bio': "*Clinton married his Academy classmate and sweetheart, Linda Haugen in 1971.  *After graduating from GSA, Clinton attended Walla Walla College and then Seminary at Andrews University.  *From 1975 to 2000, he served as pastor for Upper Columbia Conference.   *In 2004, he received a clinical counseling degree from Eastern Washington University and founded Christian Counseling Northwest. *In 2006, he was again employed by the Upper Columbia Conference where he continues to serve as pastor and counselor in a multi-parish ministry.   *Clinton’s greatest pleasure is in sharing the good news of Jesus Christ as our Savior and soon coming King."
+  },
+  {
+    'name': "Connie Beam Vance",
+    'image': {
+      'desc': "Connie Beam Vance Photo",
+      'src': "images/ConnieBeamVance.jpg"
+    },
+    'bio': "*Connie married her sweetheart in a double wedding with her brother, Tony Beam and Patty Lovell.   Connie, Tony and Patty were all in the Class of '68.  *The two couples enjoyed laughter and many happy camping adventures together  *Connie became a Certified Nursing Assistant and spent many years caring for those that needed her care  *She enjoys living in Arizona with her husband and extended family"
+  },
+  {
+    'name': "Dale Jenner",
+    'image': {
+      'desc': "Dale Jenner Photo",
+      'src': "images/DaleJenner.jpg"
+    },
+    'bio': "*Married grade school and high school sweetheart and classmate, Judy Mc Alexander (Class of ‘69) in 1971.  Graduated with a associate degree in Forestry from Central Oregon Community College in Bend, Oregon and worked in forest management over 47 years.  Dale is actually mentioned in the Lock, Stock, and Boards: The Harris Pine Mill Story.  *Dale’s bio on the next page shows extensive entrepreneurial,  administrative leadership involving various organizations, boards, affiliations associated with forestry, fish and wildlife. *Dale and Judy have 2 children, 5 grandchildren and 1 great-grandchild.  They are very involved in the local church in Pendleton, enjoying the out of doors, researching his Native American genealogy and spending time with family."
+  },
+  {
+    'name': "Dale Thompson",
+    'image': {
+      'desc': "Dale Thompson Photo",
+      'src': "images/DaleThompson.jpg"
+    },
+    'bio': ""
+  },
+  {
+    'name': "Dennis Mack",
+    'image': {
+      'desc': "Dennis Mack Photo",
+      'src': "images/DennisMack.jpg"
     },
     'bio': "Lorem ipsum dolor sit amet, ad sea mazim audire, ex porro euismod est. Fierent postulant est id, vis sumo alterum albucius at, in possim laboramus sed. An prodesset moderatius pro, vix te ponderum insolens, clita voluptua oporteat cum cu. In dicunt platonem his. Pro at noster necessitatibus, vel option inermis appellantur id, vix no probo molestiae.  Bonorum albucius mea ad. Minimum eleifend adolescens an mei, veri invenire maiestatis vis no. At sed erant civibus mnesarchum, cu viderer integre iuvaret nec. Sea veri voluptaria ullamcorper at.  Ex essent reformidans sit, usu ne nonumy iisque. Eu malis vitae similique sit, vim propriae deseruisse in. Et graecis salutandi mea, id cibo partiendo eos. Eos tale consequat liberavisse ea. Mazim viris accumsan usu at, legere mnesarchum no vel, eos quis everti cu.  Cum no suas vocibus referrentur, nostro audire te eum. No vix veniam dictas disputando, ea qui splendide mediocritatem. At clita persequeris est. Nulla veritus moderatius eu eum, vis ornatus insolens interesset id, eam purto volutpat honestatis ea. No sea clita regione petentium, dictas voluptatum ullamcorper cu qui.  Eu ius novum possim, no sea blandit aliquando, sea dico simul temporibus ex. Ad putant ceteros vix, eum et aliquando torquatos, clita volutpat ut cum. Mel id habeo putent suavitate. Nam te brute clita, adipisci instructior ea vim. Tota scaevola pertinax nec ad, at sanctus splendide mel."
   },
