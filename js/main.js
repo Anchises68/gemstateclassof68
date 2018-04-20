@@ -61,12 +61,236 @@ const alumniBio = [
     'bio': ""
   },
   {
+    'name': "David Throckmorton",
+    'image': {
+      'desc': "David Throckmorton Photo",
+      'src': "images/DavidThrockmorton.jpg"
+    },
+    'bio': ""
+  },
+  {
     'name': "Dennis Mack",
     'image': {
       'desc': "Dennis Mack Photo",
       'src': "images/DennisMack.jpg"
     },
     'bio': "Lorem ipsum dolor sit amet, ad sea mazim audire, ex porro euismod est. Fierent postulant est id, vis sumo alterum albucius at, in possim laboramus sed. An prodesset moderatius pro, vix te ponderum insolens, clita voluptua oporteat cum cu. In dicunt platonem his. Pro at noster necessitatibus, vel option inermis appellantur id, vix no probo molestiae.  Bonorum albucius mea ad. Minimum eleifend adolescens an mei, veri invenire maiestatis vis no. At sed erant civibus mnesarchum, cu viderer integre iuvaret nec. Sea veri voluptaria ullamcorper at.  Ex essent reformidans sit, usu ne nonumy iisque. Eu malis vitae similique sit, vim propriae deseruisse in. Et graecis salutandi mea, id cibo partiendo eos. Eos tale consequat liberavisse ea. Mazim viris accumsan usu at, legere mnesarchum no vel, eos quis everti cu.  Cum no suas vocibus referrentur, nostro audire te eum. No vix veniam dictas disputando, ea qui splendide mediocritatem. At clita persequeris est. Nulla veritus moderatius eu eum, vis ornatus insolens interesset id, eam purto volutpat honestatis ea. No sea clita regione petentium, dictas voluptatum ullamcorper cu qui.  Eu ius novum possim, no sea blandit aliquando, sea dico simul temporibus ex. Ad putant ceteros vix, eum et aliquando torquatos, clita volutpat ut cum. Mel id habeo putent suavitate. Nam te brute clita, adipisci instructior ea vim. Tota scaevola pertinax nec ad, at sanctus splendide mel."
+  },
+  {
+    'name': "Dennis Tall",
+    'image': {
+      'desc': "Dennis Tall Photo",
+      'src': "images/DennisTall.jpg"
+    },
+    'bio': ""
+  },
+  {
+    'name': "Dianne Qualley McBurnett",
+    'image': {
+      'desc': "Dianne Qualley McBurnett Photo",
+      'src': "images/DianneQualleyMcBurnett.jpg"
+    },
+    'bio': ""
+  },
+  {
+    'name': "Don Osborne",
+    'image': {
+      'desc': "Don Osborne Photo",
+      'src': "images/DonOsborne.jpg"
+    },
+    'bio': ""
+  },
+  {
+    'name': "Doug Hilde",
+    'image': {
+      'desc': "Doug Hilde Photo",
+      'src': "images/DougHilde.jpg"
+    },
+    'bio': ""
+  },
+  {
+    'name': "Ethlyn (Obie) Obland",
+    'image': {
+      'desc': "Ethlyn (Obie) Obland",
+      'src': "images/DougHilde.jpg"
+    },
+    'bio': ""
+  },
+  {
+    'name': "Frank Garcia",
+    'image': {
+      'desc': "Frank Garcia Photo",
+      'src': "images/FrankGarcia.jpg"
+    },
+    'bio': ""
+  },
+  {
+    'name': "Gary Wagner",
+    'image': {
+      'desc': "Gary Wagner Photo",
+      'src': "images/GaryWagner.jpg"
+    },
+    'bio': ""
+  },
+  {
+    'name': "George States",
+    'image': {
+      'desc': "George States Photo",
+      'src': "images/GeorgeStates.jpg"
+    },
+    'bio': ""
+  },
+  {
+    'name': "Janet Roba Phelps",
+    'image': {
+      'desc': "Janet Roba Phelps Photo",
+      'src': "images/JanetRobaPhelps.jpg"
+    },
+    'bio': ""
+  },
+  {
+    'name': "Janice Miller",
+    'image': {
+      'desc': "Janice MillerPhoto",
+      'src': "images/JaniceMiller.jpg"
+    },
+    'bio': ""
+  },
+  {
+    'name': "Jo Ann Fredenhagen",
+    'image': {
+      'desc': "Jo Ann Fredenhagen Photo",
+      'src': "images/JoAnnFredenhagen.jpg"
+    },
+    'bio': ""
+  },
+  {
+    'name': "John Hamel",
+    'image': {
+      'desc': "John Hamel Photo",
+      'src': "images/JohnHamel.jpg"
+    },
+    'bio': ""
+  },
+  {
+    'name': "Joy Drury Gauger",
+    'image': {
+      'desc': "Joy Drury Gauger Photo",
+      'src': "images/JoyDruryGauger.jpg"
+    },
+    'bio': ""
+  },
+  {
+    'name': "Judi Perkins Christensen Griffin",
+    'image': {
+      'desc': "Judi Perkins Christensen Griffin Photo",
+      'src': "images/JudiPerkinsChristensenGriffin.jpg"
+    },
+    'bio': ""
+  },
+  {
+    'name': "Kathy Van Komen Melendy",
+    'image': {
+      'desc': "Kathy Van Komen Melendy Photo",
+      'src': "images/KathyVanKomenMelendy.jpg"
+    },
+    'bio': ""
+  },
+  {
+    'name': "Kenny Rogers",
+    'image': {
+      'desc': "Kenny Rogers Photo",
+      'src': "images/KennyRogers.jpg"
+    },
+    'bio': ""
+  },
+  {
+    'name': "Larry Drury",
+    'image': {
+      'desc': "Larry Drury Photo",
+      'src': "images/LarryDrury.jpg"
+    },
+    'bio': ""
+  },
+  {
+    'name': "Larry Moore",
+    'image': {
+      'desc': "Larry Moore Photo",
+      'src': "images/LarryMoore.jpg"
+    },
+    'bio': ""
+  },
+  {
+    'name': "Laura Jehn Lickey",
+    'image': {
+      'desc': "Laura Jehn Lickey Photo",
+      'src': "images/LauraJehnLickey.jpg"
+    },
+    'bio': ""
+  },
+  {
+    'name': "Lavonne Grant Lee",
+    'image': {
+      'desc': "Lavonne Grant Lee Photo",
+      'src': "images/LavonneGrantLee.jpg"
+    },
+    'bio': ""
+  },
+  {
+    'name': "Leslie Hultz",
+    'image': {
+      'desc': "Leslie Hultz Photo",
+      'src': "images/LeslieHultz.jpg"
+    },
+    'bio': ""
+  },
+  {
+    'name': "Linda Abbott Caverly",
+    'image': {
+      'desc': "Linda Abbott Caverly Photo",
+      'src': "images/LindaAbbottCaverly.jpg"
+    },
+    'bio': ""
+  },
+  {
+    'name': "Linda Hagen Schultz",
+    'image': {
+      'desc': "Linda Hagen Schultz Photo",
+      'src': "images/LindaHagenSchultz.jpg"
+    },
+    'bio': ""
+  },
+  {
+    'name': "Mark Miller",
+    'image': {
+      'desc': "Mark Miller Photo",
+      'src': "images/MarkMiller.jpg"
+    },
+    'bio': ""
+  },
+  {
+    'name': "Michael Givens",
+    'image': {
+      'desc': "Michael Givens Photo",
+      'src': "images/MichaelGivens.jpg"
+    },
+    'bio': ""
+  },
+  {
+    'name': "Nancy Crisp Worley",
+    'image': {
+      'desc': "Nancy Crisp Worley Photo",
+      'src': "images/NancyCrispWorley.jpg"
+    },
+    'bio': ""
+  },
+  {
+    'name': "Noreen Thorgersen Krogstad",
+    'image': {
+      'desc': "Noreen Thorgersen Krogstad Photo",
+      'src': "images/NoreenThorgersenKrogstad.jpg"
+    },
+    'bio': ""
   },
   {
     'name': "Olof Regina Thoroddsen",
@@ -78,7 +302,7 @@ const alumniBio = [
     'bio': "*Lives in Akureyri, Iceland *Went to Tyriford Heyere Skole (SDA school in Norway?) *Studied Dentistry at Haskoli Islands, graduating in 1978 *Studied Neuroanatomy at Karolinska Institutet *Mother to one daughter, Grandmother, Mother in Law, Mezzosoprano"
   },
   {
-    'name': "Pam & Franklin Loop",
+    'name': "Pam Loop",
     'image': {
       'desc': "Pam & Franklin Photo",
       'src': "images/PamFranklinLoop.jpg"
@@ -92,6 +316,110 @@ const alumniBio = [
       'src': "images/SandraWilliamsDepner.jpg"
     },
     'bio': "Lorem ipsum dolor sit amet, ad sea mazim audire, ex porro euismod est. Fierent postulant est id, vis sumo alterum albucius at, in possim laboramus sed. An prodesset moderatius pro, vix te ponderum insolens, clita voluptua oporteat cum cu. In dicunt platonem his. Pro at noster necessitatibus, vel option inermis appellantur id, vix no probo molestiae.  Bonorum albucius mea ad. Minimum eleifend adolescens an mei, veri invenire maiestatis vis no. At sed erant civibus mnesarchum, cu viderer integre iuvaret nec. Sea veri voluptaria ullamcorper at.  Ex essent reformidans sit, usu ne nonumy iisque. Eu malis vitae similique sit, vim propriae deseruisse in. Et graecis salutandi mea, id cibo partiendo eos. Eos tale consequat liberavisse ea. Mazim viris accumsan usu at, legere mnesarchum no vel, eos quis everti cu.  Cum no suas vocibus referrentur, nostro audire te eum. No vix veniam dictas disputando, ea qui splendide mediocritatem. At clita persequeris est. Nulla veritus moderatius eu eum, vis ornatus insolens interesset id, eam purto volutpat honestatis ea. No sea clita regione petentium, dictas voluptatum ullamcorper cu qui.  Eu ius novum possim, no sea blandit aliquando, sea dico simul temporibus ex. Ad putant ceteros vix, eum et aliquando torquatos, clita volutpat ut cum. Mel id habeo putent suavitate. Nam te brute clita, adipisci instructior ea vim. Tota scaevola pertinax nec ad, at sanctus splendide mel."
+  },
+  {
+    'name': "Patricia Woodruff Heinrich",
+    'image': {
+      'desc': "Patricia Woodruff Heinrich Photo",
+      'src': "images/PatriciaWoodruffHeinrich.jpg"
+    },
+    'bio': ""
+  },
+  {
+    'name': "Patty Lovell (Beam) Rickwa",
+    'image': {
+      'desc': "Patty Lovell (Beam) Rickwa Photo",
+      'src': "images/PattyLovellBeamRickwa.jpg"
+    },
+    'bio': ""
+  },
+  {
+    'name': "Raymond Jackson",
+    'image': {
+      'desc': "Raymond Jackson Photo",
+      'src': "images/RaymondJackson.jpg"
+    },
+    'bio': ""
+  },
+  {
+    'name': "Richard Lawrence",
+    'image': {
+      'desc': "Richard Lawrence Photo",
+      'src': "images/RichardLawrence.jpg"
+    },
+    'bio': ""
+  },
+  {
+    'name': "Robert Fullmer",
+    'image': {
+      'desc': "Robert Fullmer Photo",
+      'src': "images/RobertFullmer.jpg"
+    },
+    'bio': ""
+  },
+  {
+    'name': "Roger Hanson",
+    'image': {
+      'desc': "Roger Hanson Photo",
+      'src': "images/RogerHanson.jpg"
+    },
+    'bio': ""
+  },
+  {
+    'name': "Sherilyn Ferrera Samaan",
+    'image': {
+      'desc': "Sherilyn Ferrera Samaan Photo",
+      'src': "images/SherilynFerreraSamaan.jpg"
+    },
+    'bio': ""
+  },
+  {
+    'name': "Sue Dousay Mack",
+    'image': {
+      'desc': "Sue Dousay Mack Photo",
+      'src': "images/SueDousayMack.jpg"
+    },
+    'bio': ""
+  },
+  {
+    'name': "Suzanne Miller Shafer",
+    'image': {
+      'desc': "Suzanne Miller Shafer Photo",
+      'src': "images/SuzanneMillerShafer.jpg"
+    },
+    'bio': ""
+  },
+  {
+    'name': "Tim Saunders",
+    'image': {
+      'desc': "Tim Saunders Photo",
+      'src': "images/TimSaunders.jpg"
+    },
+    'bio': ""
+  },
+  {
+    'name': "Trudy Carpenter Klein",
+    'image': {
+      'desc': "Trudy Carpenter Klein Photo",
+      'src': "images/TrudyCarpenterKlein.jpg"
+    },
+    'bio': ""
+  },
+  {
+    'name': "Verla Rollins Collett",
+    'image': {
+      'desc': "Verla Rollins Collett Photo",
+      'src': "images/VerlaRollinsCollett.jpg"
+    },
+    'bio': ""
+  },
+  {
+    'name': "Warren Graybill",
+    'image': {
+      'desc': "Warren Graybill Photo",
+      'src': "images/WarrenGraybill.jpg"
+    },
+    'bio': ""
   }
 
 ]
