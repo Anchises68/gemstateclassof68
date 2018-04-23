@@ -109,6 +109,14 @@ const alumniBio = [
     'bio': "Married classmate Sue Foster (Class of ‘69), when she graduated from Gem State and they have 2 children, Heidi and son Travis and 3 granddaughters.  Industrial Arts – Oversaw Campus construction and maintenance at Upper Columbia Academy, Spangle, Wa.  supporting local Fire Department.  Worked with Basin Frozen Foods, and later Winnemucca Farms in developing food products.  Several tours of mission work in Zambia, Liberia, South Sudan, Zambia, Kenya.  Custodian of Leoni Meadows Camp & Retreat Center, in the Sierra Mountains, Northern California for several years.  Last 20 years of his career, he worked at the Pacific Press and recently retired and moved to Arizona to be closer to his children and grandchildren."
   },
   {
+    'name': "Dorothy Wilcox Ammonson",
+    'image': {
+      'desc': "Dorothy Wilcox Ammonson Photo",
+      'src': "images/DorothyWilcoxAmmonson.jpg"
+    },
+    'bio': "Deceased.  Went to PUC.  Married Wesley Ammonson and they pastored in the Northern California Conference and then did mission work in Singapore. She had two daughters."
+  },
+  {
     'name': "Doug Hilde",
     'image': {
       'desc': "Doug Hilde Photo",
@@ -141,6 +149,30 @@ const alumniBio = [
     'bio': "After graduation, George was drafted into the Military and trained as a medic.  He was stationed for 2 years at Walter Reed Hospital in Washington DC and then returned back home to Emmett, Idaho.  In 1973, he married his wife, Mary and they have 2 sons and a daughter. George started his own business in Heating and Air Conditioning and then retired after 30 years.  He enjoys spending time with his children and grandchildren, all who live close by.  He remembers his time at Gem State fondly and sends his greetings."
   },
   {
+    'name': "Gordon Bell",
+    'image': {
+      'desc': "Gordon Bell Photo",
+      'src': "images/GordonBell.jpg"
+    },
+    'bio': "Met his wife working in the Walla Walla University cafeteria.  He married Patty Schriver and lives with her in Lodi.  Worked for a printing company fore 32 years. Gordon did Anodized Aluminum welding and was disabled with a back injury.  But Gordon didn’t want to stop making a difference, so he did Homeless Ministry for 10 years.   He and a friend would literally walk the streets of Lodi and go to Homeless shelters to provide food, pray with them and help them see a way out of their situation. Because his wife is unable to travel, he cannot attend, but sends his greetings!"
+  },
+  {
+    'name': "Helen Spencer Clough",
+    'image': {
+      'desc': "Helen Spencer Clough Photo",
+      'src': "images/HelenSpencerClough.jpg"
+    },
+    'bio': "no information available"
+  },
+  {
+    'name': "Jo Ann Fredenhagen",
+    'image': {
+      'desc': "Jo Ann Fredenhagen Photo",
+      'src': "images/JoAnnFredenhagen.jpg"
+    },
+    'bio': "no infromation available"
+  },
+  {
     'name': "Janet Roba Phelps",
     'image': {
       'desc': "Janet Roba Phelps Photo",
@@ -155,6 +187,14 @@ const alumniBio = [
       'src': "images/JaniceMiller.jpg"
     },
     'bio': "no infromation available"
+  },
+  {
+    'name': "Jerry Brown",
+    'image': {
+      'desc': "Jerry Brown Photo",
+      'src': "images/JerryBrown.jpg"
+    },
+    'bio': "Drafted into the Military and was stationed in Germany.  He served with his brother, Terry, as a fire fighter in the Air Force until his retirement at 56.  He then worked with a local fire company.  He married and has children and grandchildren and currently resides in Sommerset, Ca. He sends his greetings, but is unable to attend as he is caring for his grandkids."
   },
   {
     'name': "Jo Ann Fredenhagen",
@@ -181,12 +221,20 @@ const alumniBio = [
     'bio': "Joy completed a BS in Nursing from Walla Walla University in 1972 and worked as an RN for over 40 years.  She has two children, Melanie, 40 and Patrick,  38 and two little Grandsons.  Joy and her husband, Clyde, live in southern Oregon. She inherited 12 grand children and loves living on 19 acres.  Joys hobbies: gardening, photography, knitting, sewing."
   },
   {
-    'name': "Judi Perkins Christensen Griffin",
+    'name': "Judi Christensen Griffin",
     'image': {
       'desc': "Judi Perkins Christensen Griffin Photo",
       'src': "images/JudiPerkinsChristensenGriffin.jpg"
     },
     'bio': "Attended Gem State Academy her sophomore year, when her father was the Principal. Her family then moved to San Pasqual Academy and she graduated from there and went to College at La Sierra University.   She met her first husband, Bjorn or  BJ Christiansen and she followed him to Andrews for his Mdiv degree.    While he pastored in the Oregon Conference,  She taught PE at Portland Adventist Academy.  They have 1 daughter, Heidi and have 3 grandchildren.   BJ was President of the Southern California Conference and was also called to the General Conference in the Ministry Department.  When BJ passed away with Cancer,  Judi stayed in Silver Springs and was involved in Administration of the Washington Sanitarium.  She was remarried to Robert Griffin, a physician in Boring, Oregon and she is involved in the Sunnyside church with her husband."
+  },
+  {
+    'name': "Karen Jaeger Andregg",
+    'image': {
+      'desc': "Karen Jaeger Andregg Photo",
+      'src': "images/KarenJaegerAndregg.jpg"
+    },
+    'bio': "Karen married Randy Andregg (Class of ‘69) in 1971 and graduated with a BS in Nursing from WWU in 1972. They then moved to Southern California and Randy completed his Doctor of Optometry degree and Karen worked as an ER nurse during the 4 years.  They moved to Boise in 1977 and Randy began his Optometry practice.  They have 2 daughters, who attended and graduated from Gem State.  Emily married a local boy, Shawn Sates and have 2 children, Melissa lives in Texas with her husband and 2 children.  Karen worked 26 years at St. Luke’s Reginal Medical Center in Labor and Delivery, 10 years in management.  She retired from nursing in 2005 and helped with Randy’s practice, took time to travel and are grateful for the blessings of her life and family."
   },
   {
     'name': "Kathy Van Komen Melendy",
@@ -342,6 +390,14 @@ const alumniBio = [
     'bio': "no information available"
   },
   {
+    'name': "Robert Clark",
+    'image': {
+      'desc': "Robert Clark Photo",
+      'src': "images/RobertClark.jpg"
+    },
+    'bio': "I graduated from PUC and completed my Masters of Divinity from Andrews.  My pastoral career began in Southern California in '73.  I then moved to Northern California Conference in 1980.  I pastored in Jackson/Sutter Creek, Eureka, Orangevale (Sacramento) and Red Bluff/Corning.  This last district will be my final one and I hope to retire in a year or two.  Ivy and I have six children and six grandkids between us.  They are scattered up and down the west coast from Alaska to San Diego.  The only one not on the coast is my youngest, Josh, who lives near Sandpoint.  We love to hike, bike (we have a tandem), still do some backpacking, golf and tend our five acre farm (large garden, 50+ fruit and nut trees).  My brother Larry, class of '71 is a neurosurgeon living in Riverside, CA.  Has two children.  Both mom and dad Clark have passed away.  Mom just in the last couple of months at the ripe old age of 97.  Should you want to contact me for any reason, our address is 9268 Hwy. 99E, Los Molinos, CA, 96055.  Telephone # is 530/586-1366.  Email is robert.clark@nccsda.com.  Blessings on you all.  Hope to see everyone of you in heaven."
+  },
+  {
     'name': "Robert Fullmer",
     'image': {
       'desc': "Robert Fullmer Photo",
@@ -364,7 +420,7 @@ const alumniBio = [
       'desc': "Sandra Williams Depner Photo",
       'src': "images/SandraWilliamsDepner.jpg"
     },
-    'bio': "Lorem ipsum dolor sit amet, ad sea mazim audire, ex porro euismod est. Fierent postulant est id, vis sumo alterum albucius at, in possim laboramus sed. An prodesset moderatius pro, vix te ponderum insolens, clita voluptua oporteat cum cu. In dicunt platonem his. Pro at noster necessitatibus, vel option inermis appellantur id, vix no probo molestiae.  Bonorum albucius mea ad. Minimum eleifend adolescens an mei, veri invenire maiestatis vis no. At sed erant civibus mnesarchum, cu viderer integre iuvaret nec. Sea veri voluptaria ullamcorper at.  Ex essent reformidans sit, usu ne nonumy iisque. Eu malis vitae similique sit, vim propriae deseruisse in. Et graecis salutandi mea, id cibo partiendo eos. Eos tale consequat liberavisse ea. Mazim viris accumsan usu at, legere mnesarchum no vel, eos quis everti cu.  Cum no suas vocibus referrentur, nostro audire te eum. No vix veniam dictas disputando, ea qui splendide mediocritatem. At clita persequeris est. Nulla veritus moderatius eu eum, vis ornatus insolens interesset id, eam purto volutpat honestatis ea. No sea clita regione petentium, dictas voluptatum ullamcorper cu qui.  Eu ius novum possim, no sea blandit aliquando, sea dico simul temporibus ex. Ad putant ceteros vix, eum et aliquando torquatos, clita volutpat ut cum. Mel id habeo putent suavitate. Nam te brute clita, adipisci instructior ea vim. Tota scaevola pertinax nec ad, at sanctus splendide mel."
+    'bio': "We knew Sandra as Coleen at Gem State.   Sandra completed her Elementary Education degree at Walla Walla University in1973 and has taught elementary school in  Whittier, Los Angeles, Needles, California and Colville, Idaho.  She also taught in Las Vegas, Nevada.   She knew at 9 years old that she wanted to teach recently retired after a 41 year career, but still enjoys runs the library at Las Vegas Jr Academy and will substitute teach, as needed.  Sandra was a founding member of the Centennial Hills SDA in Las Vegas and remains very involved teaching the children’s story, greeting and bagging food for those less fortunate.  In retirement, she is enjoying reading, doing puzzles books, sewing, gardening and visiting friends in CA, CO, AR.   Her sister, Maureen also attended GSA and Sandra enjoys her 2 Nieces, 1 great neice and 1 great nephew.   Another great enjoyment is her 2 Furry Children, Molly (10) and Maddie (13) and she enjoys walking and dog sitting. What she learned at Gem State was how to teach.  She says what her teachers did or did not do influenced how she taught in her teaching career."
   },
   {
     'name': "Sharon Jennings Simmons",
@@ -399,12 +455,36 @@ const alumniBio = [
     'bio': "Graduated from WWC in Nursing 1972.  Lives in Milton Freewater, Oregon and enjoys riding her motorcycle into the local Blue Mountains and eastern Oregon and Washington.  Held many positions in Psychiatric Nursing, was Director of Nursing – for a Psych facility."
   },
   {
+    'name': "Terry Brown",
+    'image': {
+      'desc': "Terry Brown Photo",
+      'src': "images/TerryBrown.jpg"
+    },
+    'bio': "Drafted into the Military and was stationed in Germany.  He served with his brother, Jerry, as a fire fighter in the Air Force until his retirement at 56.   He then worked with a local fire company.  He was married and has children and grandchildren and currently resides in Mantue, Utah."
+  },
+  {
+    'name': "Tia Ludden Biegel",
+    'image': {
+      'desc': "Tia Ludden Biegel Photo",
+      'src': "images/TiaLuddenBiegel.jpg"
+    },
+    'bio': "Graduated from WWC in Nursing - 1972.  She received additional training in Internal Medicine and Leadership while working at Kettering memorial Hospital in Kettering, Ohio.  In 1974, she moved to Tillamook, Oregon and practiced nursing in Tillamook County General Hospital.     She also worked in Napa Valley at St Helena Hospital before returning to Tillamook.  She has married and especially enjoys hiking, biking, walking/running on the beach and getting out in the great outdoors."
+  },
+  {
     'name': "Tim Saunders",
     'image': {
       'desc': "Tim Saunders Photo",
       'src': "images/TimSaunders.jpg"
     },
     'bio': "no information available"
+  },
+  {
+    'name': "Tony Beam",
+    'image': {
+      'desc': "Tony Beam Photo",
+      'src': "images/TonyBeam.jpg"
+    },
+    'bio': "Tony attended High School and then stepped away for a few years to help his grandfather on the farm.   He returned to Gem State to graduate with his younger sister, Connie. Connie remembers that 'he was closer to me than a twin.' Tony married classmate Pat Lovell (Beam-Rickwa) and had a double wedding with Tony’s sister, Connie Beam (Vance) right after we graduated in 1968.  The two couples enjoyed many happy memories camping, hiking and enjoying the out of doors.  Tony and Pat were married for 10 years and had 2 children Kathy and Keri. Tony then married Debbie 85-94 and then was married to Alice until his death in March of 2007.  He added 1 daughter Candy Lynn and 2 step children.  He was blessed with 5 grand children.  His daughters remember that he had a special ability to connect with animals. He loved playing the harmonica, guitar and enjoyed listening to Johnny Cash music.  He was a farmer, a restaurant manager, but what he loved best was owning his own truck and driving long distance, especially with his wife, Alice.  His daughters remember lots of laughter, family time and enjoying his gentle spirit, especially in his final years."
   },
   {
     'name': "Trudy Carpenter Klein",
@@ -982,7 +1062,142 @@ const alumniAlbum = [
   },
   {
     'image': "images/Reunion29.jpg"
-  }
+  },
+  {
+    'image': "images/Reunion30.jpg"
+  },
+  {
+    'image': "images/Reunion31.jpg"
+  },
+  {
+    'image': "images/Reunion32.jpg"
+  },
+  {
+    'image': "images/Reunion33.jpg"
+  },
+  {
+    'image': "images/Reunion34.jpg"
+  },
+  {
+    'image': "images/Reunion35.jpg"
+  },
+  {
+    'image': "images/Reunion36.jpg"
+  },
+  {
+    'image': "images/Reunion37.jpg"
+  },
+  {
+    'image': "images/Reunion38.jpg"
+  },
+  {
+    'image': "images/Reunion39.jpg"
+  },
+  {
+    'image': "images/Reunion40.jpg"
+  },
+  {
+    'image': "images/Reunion41.jpg"
+  },
+  {
+    'image': "images/Reunion42.jpg"
+  },
+  {
+    'image': "images/Reunion43.jpg"
+  },
+  {
+    'image': "images/Reunion44.jpg"
+  },
+  {
+    'image': "images/Reunion45.jpg"
+  },
+  {
+    'image': "images/Reunion46.jpg"
+  },
+  {
+    'image': "images/Reunion47.jpg"
+  },
+  {
+    'image': "images/Reunion48.jpg"
+  },
+  {
+    'image': "images/Reunion49.jpg"
+  },
+  {
+    'image': "images/Reunion50.jpg"
+  },
+  {
+    'image': "images/Reunion51.jpg"
+  },
+  {
+    'image': "images/Reunion52.jpg"
+  },
+  {
+    'image': "images/Reunion53.jpg"
+  },
+  {
+    'image': "images/Reunion54.jpg"
+  },
+  {
+    'image': "images/Reunion55.jpg"
+  },
+  {
+    'image': "images/Reunion56.jpg"
+  },
+  {
+    'image': "images/Reunion57.jpg"
+  },
+  {
+    'image': "images/Reunion58.jpg"
+  },
+  {
+    'image': "images/Reunion59.jpg"
+  },
+  {
+    'image': "images/Reunion60.jpg"
+  },
+  {
+    'image': "images/Reunion61.jpg"
+  },
+  {
+    'image': "images/Reunion62.jpg"
+  },
+  {
+    'image': "images/Reunion63.jpg"
+  },
+  {
+    'image': "images/Reunion64.jpg"
+  },
+  {
+    'image': "images/Reunion65.jpg"
+  },
+  {
+    'image': "images/Reunion66.jpg"
+  },
+  {
+    'image': "images/Reunion67.jpg"
+  },
+  {
+    'image': "images/Reunion68.jpg"
+  },
+  {
+    'image': "images/Reunion69.jpg"
+  },
+  {
+    'image': "images/Reunion70.jpg"
+  },
+  {
+    'image': "images/Reunion71.jpg"
+  },
+  {
+    'image': "images/Reunion72.jpg"
+  },
+  {
+    'image': "images/Reunion73.jpg"
+  },
+  {
+    'image': "images/Reunion74.jpg"
+  },
 ]
 
 

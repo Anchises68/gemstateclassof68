@@ -53,7 +53,7 @@ class Photos extends React.Component {
     render() {
       let photo = this.props.photo;
       return (
-        <div className="w3-col l3 m6 w3-margin-bottom">
+        <div className="w3-col l3 m4 w3-margin-bottom">
           <div className="w3-display-container">
             <button className="w3-button w3-display-bottomright w3-black w3-padding" onClick={ (evt) => this.props.openPhoto(evt, photo)}>Open</button>
             <img src={ photo.image } />
