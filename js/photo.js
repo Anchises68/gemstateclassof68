@@ -32,6 +32,7 @@ class Photos extends React.Component {
         {/*Reunion Photos Section */}
         <div class="w3-container w3-padding-32" id="projects">
           <h2 class="w3-border-bottom w3-border-light-grey w3-padding-16">Reunion Photos</h2>
+          <p>Click on any photo to enlarge</p>
         </div>
         <section>
           <div class="w3-row-padding" >
@@ -55,8 +56,8 @@ class Photos extends React.Component {
       return (
         <div className="w3-col l3 m4 w3-margin-bottom">
           <div className="w3-display-container">
-            <button className="w3-button w3-display-bottomright w3-black w3-padding" onClick={ (evt) => this.props.openPhoto(evt, photo)}>Open</button>
-            <img src={ photo.image } />
+
+            <img src={ photo.image } onClick={ (evt) => this.props.openPhoto(evt, photo)} className="w3-button"/>
           </div>
         </div>
       )

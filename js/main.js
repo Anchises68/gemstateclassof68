@@ -371,7 +371,7 @@ const alumniBio = [
       'desc': "Patty Lovell (Beam) Rickwa Photo",
       'src': "images/PattyLovellBeamRickwa.jpg"
     },
-    'bio': "Married her high school sweetheart, Tony Beam, right after graduation and were married for 10 years.  During their marriage, they had 2 daughters, Kathy and Keri.  She completed nursing at Boise State in 1974.  Her work experience included Maternity, Night Supervisor in ER and was a school nurse in Nampa.  She particularly enjoyed working 10 years in Home Health and loved the one on one time with patients in their homes.  She married for the 2nd time in 1984 to Ted Rickwa and added a daughter and 3 step children to her life.   Patty’s great joy was being a grandmother to 6 grandchildren.   Patty was stricken with Hashimoto’s disease in her early 50s, which has impaired her ability to move and speak and last year moved to the Park Place Care facility in Nampa.  She continues to enjoy family and friends visiting her."
+    'bio': "Married her high school sweetheart, Tony Beam, right after graduation and were married for 10 years.  During their marriage, they had 2 daughters, Kathy and Keri.   She completed nursing at Boise State in 1974.  Her work experience included Maternity, Night Supervisor in ER and was a school nurse in Nampa.  She particularly enjoyed working 10 years in Home Health and loved the one on one time with patients in their homes.  She married for the 2nd time in 1984 to Ted Rickwa and added a daughter and 3 step children to her life.   Patty’s great joy was being a grandmother to 6 grandchildren.   Patty was stricken with Hashimoto’s disease in her early 50s, which has impaired her ability to move and speak and last year moved to the Park Place Care facility in Nampa.  She continues to enjoy family and friends visiting her."
   },
   {
     'name': "Raymond Jackson",
@@ -393,7 +393,8 @@ const alumniBio = [
     'name': "Robert Clark",
     'image': {
       'desc': "Robert Clark Photo",
-      'src': "images/RobertClark.jpg"
+      'src': "images/RobertClark.jpg",
+      'biossrc': "images/RobertClarkBio.jpg"
     },
     'bio': "I graduated from PUC and completed my Masters of Divinity from Andrews.  My pastoral career began in Southern California in '73.  I then moved to Northern California Conference in 1980.  I pastored in Jackson/Sutter Creek, Eureka, Orangevale (Sacramento) and Red Bluff/Corning.  This last district will be my final one and I hope to retire in a year or two.  Ivy and I have six children and six grandkids between us.  They are scattered up and down the west coast from Alaska to San Diego.  The only one not on the coast is my youngest, Josh, who lives near Sandpoint.  We love to hike, bike (we have a tandem), still do some backpacking, golf and tend our five acre farm (large garden, 50+ fruit and nut trees).  My brother Larry, class of '71 is a neurosurgeon living in Riverside, CA.  Has two children.  Both mom and dad Clark have passed away.  Mom just in the last couple of months at the ripe old age of 97.  Should you want to contact me for any reason, our address is 9268 Hwy. 99E, Los Molinos, CA, 96055.  Telephone # is 530/586-1366.  Email is robert.clark@nccsda.com.  Blessings on you all.  Hope to see everyone of you in heaven."
   },
@@ -434,7 +435,8 @@ const alumniBio = [
     'name': "Sherilyn Ferrera Samaan",
     'image': {
       'desc': "Sherilyn Ferrera Samaan Photo",
-      'src': "images/SherilynFerreraSamaan.jpg"
+      'src': "images/SherilynFerreraSamaan.jpg",
+      'biossrc': "images/SherilynFerreraSamaan2.jpg"
     },
     'bio': "Masters in Music Associate Degree in Nursing Married Phillip Samaan for 45 years 1 daughter & 2 grandchildren Missionaries in Africa and learned French at Collonges, France before moving to West African-Indian Ocean Division, headquartered in Abidjan  Continues music ministry, while husband does Pastoral, Teaching Religion & Theology (at Andrews and Southern Adventist University). Phillip also conducting Seminars and writing books (See Bio)"
   },
@@ -514,6 +516,9 @@ const alumniBio = [
 ]
 
 const alumniAlbum = [
+  {
+    'image': "images/IMG_8271.jpg"
+  },
   {
     'image': "images/20180331_191417.jpg"
   },
@@ -1083,9 +1088,6 @@ const alumniAlbum = [
   },
   {
     'image': "images/Reunion36.jpg"
-  },
-  {
-    'image': "images/Reunion37.jpg"
   },
   {
     'image': "images/Reunion38.jpg"
