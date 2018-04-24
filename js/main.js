@@ -197,9 +197,9 @@ const alumniBio = [
     'bio': "Drafted into the Military and was stationed in Germany.  He served with his brother, Terry, as a fire fighter in the Air Force until his retirement at 56.  He then worked with a local fire company.  He married and has children and grandchildren and currently resides in Sommerset, Ca. He sends his greetings, but is unable to attend as he is caring for his grandkids."
   },
   {
-    'name': "Jo Ann Fredenhagen",
+    'name': "JoAnn Fredenhagen",
     'image': {
-      'desc': "Jo Ann Fredenhagen Photo",
+      'desc': "JoAnn Fredenhagen Photo",
       'src': "images/JoAnnFredenhagen.jpg"
     },
     'bio': "no infromation available"
