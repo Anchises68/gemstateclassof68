@@ -22,7 +22,7 @@ const alumniBio = [
     },
     'image': {
       'desc': "Avis Thomas Photo",
-      'src': "images/AliceLindsayKirk.jpg"
+      'src': "images/MrBean.jpg"
     },
     'bio': ""
   },
@@ -305,7 +305,7 @@ const alumniBio = [
   {
      'name': {
       'first': "Judi",
-      'last': "Perkins Christensen Griffin"
+      'last': "Perkins C. Griffin"
      },
     'image': {
       'desc': "Judi Perkins Christensen Griffin Photo",
@@ -465,12 +465,12 @@ const alumniBio = [
       'desc': "Noreen Thorgersen Krogstad Photo",
       'src': "images/NoreenThorgersenKrogstad.jpg"
     },
-    'bio': "Graduated in Nursing from WWU in ‘72 and married Lester Riter.  They were involved in the Oregon Conference ministry for 7 years and then left the ministry to pursue a home construction business in Lincoln City, Oregon.  In 1983, they moved to Loma Linda, where Lester completed Dentistry.   Noreen and Lester had 2 children, Molly and Ben, but divorced in 1989.  Noreen did ICU, Neurology, med-surg and clinical nursing off and on during that time.  While at Loma Linda, Noreen completed a Masters in Healthcare Administration and was a Community Clinic liaison for 10 years.  Noreen married Gary Krogstad in 1999 added 1 step son, Kevin and her son, Ben and his wife, Janella, add 3 grandkids to her life.  After working 19 years at LL Health Care and Adventist Health and 14 years at the LL VA, she retired after a a 42 years in nursing in 2016 and is enjoying being ”Mimi”, traveling, playing the piano, reading, staying active and expanding her community of friends."
+    'bio': "Graduated in Nursing from WWU in ‘72 and married Lester Riter.   They were involved in the Oregon Conference ministry for 7 years and then left the ministry to pursue a home construction business in Lincoln City, Oregon.  In 1983, they moved to Loma Linda, where Lester completed Dentistry.   Noreen and Lester had 2 children, Molly and Ben, but divorced in 1989.  Noreen did ICU, Neurology, med-surg and clinical nursing off and on during that time.  While at Loma Linda, Noreen Completed a Masters in Healthcare Administration and was a Community Clinic liaison between LLU and the VA Loma Linda for 10 years.  Noreen married Gary Krogstad in 1999 added 1 step son, Kevin and her son, Ben and his wife, Janella, add 3 grandchildren to her life.  After working 19 years at Loma Linda Health Care and Adventist Health and 14 years at the Loma Linda VA, she retired after a a 42 years in nursing in 2016 and is enjoying being ”Mimi”, traveling, playing the piano, reading, staying active and expanding her community of friends."
   },
   {
     'name': {
       'first': "Olof Regina",
-      'last': "Maronson Torfadottir Thoroddsen"
+      'last': "Thoroddsen"
      },
     'image': {
       'desc': "Olof Regina Maronson Torfadottir Thoroddsen Photo",
@@ -510,7 +510,7 @@ const alumniBio = [
       'desc': "Patty Lovell (Beam) Rickwa Photo",
       'src': "images/PattyLovellBeamRickwa.jpg"
     },
-    'bio': "Married her high school sweetheart, Tony Beam, right after graduation and were married for 10 years.  During their marriage, they had 2 daughters, Kathy and Keri.   She completed nursing at Boise State in 1974.  Her work experience included Maternity, Night Supervisor in ER and was a school nurse in Nampa.  She particularly enjoyed working 10 years in Home Health and loved the one on one time with patients in their homes.  She married for the 2nd time in 1984 to Ted Rickwa and added a daughter and 3 step children to her life.   Patty’s great joy was being a grandmother to 6 grandchildren.  Patty was stricken with Hashimoto’s disease in her early 50s, which has impaired her ability to move and speak and last year moved to the Park Place Care facility in Nampa.  She continues to enjoy family and friends visiting her."
+    'bio': "Married her high school sweetheart, Tony Beam, right after graduation and were married for 10 years.  During their marriage, they had 2 daughters, Kathy and Keri.   She completed nursing at Boise State in 1974.  Her work experience included Maternity, Night Supervisor in ER and was a school nurse in Nampa.  She particularly enjoyed working 10 years in Home Health and loved the one on one time with patients in their homes.  She married for the 2nd time in 1984 to Ted Rickwa and added a daughter and 3 step children to her life.   Patty’s great joy was being a grandmother to 6 grandchildren.   Patty was stricken with Hashimoto’s disease in her early 50s, which has impaired her ability to move and speak and last year moved to the Park Place Care facility in Nampa.  She continues to enjoy family and friends visiting her."
   },
   {
     'name': {
@@ -544,7 +544,7 @@ const alumniBio = [
       'src': "images/RobertClark.jpg",
       'biossrc': "images/RobertClarkBio.jpg"
     },
-    'bio': "I graduated from PUC and completed my Masters of Divinity from Andrews.  My pastoral career began in Southern California in '73.  I then moved to Northern California Conference in 1980.  I pastored in Jackson/Sutter Creek, Eureka, Orangevale and Red Bluff/Corning.  This last district will be my final one and I hope to retire in a year or two.  Ivy and I have 6 children and 6 grandkids between us.  They are scattered up and down the west coast from Alaska to San Diego.  The only one not on the coast is my youngest, Josh, who lives near Sandpoint.  We love to hike, bike, backpacking, golf and tend our 5 acre farm.  My brother Larry, class of '71 is a neurosurgeon in Riverside, CA with two children.  Mom and dad Clark have passed away.  Mom just in the last two months at the ripe old age of 97.  Should you want to contact, our address is 9268 Hwy. 99E, Los Molinos, CA, 96055.  Telephone: 530/586-1366  Email: robert.clark@nccsda.com.  Hope to see everyone of you in heaven."
+    'bio': "I graduated from PUC and completed my Masters of Divinity from Andrews.  My pastoral career began in Southern California in '73.  I then moved to Northern California Conference in 1980.  I pastored in Jackson/Sutter Creek, Eureka, Orangevale (Sacramento) and Red Bluff/Corning.  This last district will be my final one and I hope to retire in a year or two.  Ivy and I have six children and six grandkids between us.  They are scattered up and down the west coast from Alaska to San Diego.  The only one not on the coast is my youngest, Josh, who lives near Sandpoint.  We love to hike, bike (we have a tandem), still do some backpacking, golf and tend our five acre farm (large garden, 50+ fruit and nut trees).  My brother Larry, class of '71 is a neurosurgeon living in Riverside, CA.  Has two children.  Both mom and dad Clark have passed away.  Mom just in the last couple of months at the ripe old age of 97.  Should you want to contact me for any reason, our address is 9268 Hwy. 99E, Los Molinos, CA, 96055.  Telephone # is 530/586-1366.  Email is robert.clark@nccsda.com.  Blessings on you all.  Hope to see everyone of you in heaven."
   },
   {
     'name': {
@@ -571,14 +571,14 @@ const alumniBio = [
 
   {
     'name': {
-      'first': "Sandra (Coleen)",
+      'first': "Sandra",
       'last': "Williams Depner"
      },
     'image': {
       'desc': "Sandra Williams Depner Photo",
       'src': "images/SandraWilliamsDepner.jpg"
     },
-    'bio': "We knew Sandra as Coleen at Gem State.   Sandra completed her Elementary Education degree at Walla Walla University in '73 and has taught elementary school in  Whittier, Los Angeles, Needles, CA, Colville, ID and Las Vegas, NV.   She recently retired after a 41 year career, but still enjoys runs the library at LV Jr Academy and will substitute teach.  Sandra was a founding member of the Centennial Hills SDA in Las Vegas and remains very involved teaching the children’s story, greeting and bagging food for those less fortunate.  Now she enjoys reading, doing puzzles books, sewing, gardening and visiting friends in CA, CO, AR.  Her sister, Maureen also attended GSA and Sandra enjoys her 2 nieces, 1 great niece and 1 great nephew.   Another great enjoyment is her 2 Furry Children and she enjoys walking and dog sitting. What she learned at Gem State was how to teach.  She says what her teachers did or did not do influenced how she taught in her teaching career."
+    'bio': "We knew Sandra as Coleen at Gem State.   Sandra completed her Elementary Education degree at Walla Walla University in1973 and has taught elementary school in  Whittier, Los Angeles, Needles, California and Colville, Idaho.  She also taught in Las Vegas, Nevada.   She knew at 9 years old that she wanted to teach recently retired after a 41 year career, but still enjoys runs the library at Las Vegas Jr Academy and will substitute teach, as needed.  Sandra was a founding member of the Centennial Hills SDA in Las Vegas and remains very involved teaching the children’s story, greeting and bagging food for those less fortunate.  In retirement, she is enjoying reading, doing puzzles books, sewing, gardening and visiting friends in CA, CO, AR.   Her sister, Maureen also attended GSA and Sandra enjoys her 2 Nieces, 1 great neice and 1 great nephew.   Another great enjoyment is her 2 Furry Children, Molly (10) and Maddie (13) and she enjoys walking and dog sitting. What she learned at Gem State was how to teach.  She says what her teachers did or did not do influenced how she taught in her teaching career."
   },
   {
     'name': {
@@ -667,7 +667,7 @@ const alumniBio = [
       'desc': "Tony Beam Photo",
       'src': "images/TonyBeam.jpg"
     },
-    'bio': "Tony attended High School and then stepped away for a few years to help his grandfather on the farm.   He returned to Gem State to graduate with his younger sister, Connie. Connie remembers that 'he was closer to me than a twin.' Tony married classmate Pat Lovell (Beam-Rickwa) and had a double wedding with Tony’s sister, Connie Beam (Vance) right after we graduated in 1968. Tony and Pat were married for 10 years and had 2 children Kathy and Keri. Tony then married Debbie 85-94 and then was married to Alice until his death in March of 2007.  He added 1 daughter Candy Lynn and 2 step children.  He was blessed with 5 grand children.  He had a special ability to connect with animals. He loved playing the harmonica, guitar and enjoyed listening to Johnny Cash music.  He was a farmer, a restaurant manager, but what he loved best was owning his own truck.  His daughters remember lots of laughter, family time and enjoying his gentle spirit, especially in his final years."
+    'bio': "Tony attended High School and then stepped away for a few years to help his grandfather on the farm.  He returned to Gem State to graduate with his younger sister, Connie. Connie remembers that “he was closer to me than a twin.  Tony married classmate Pat Lovell (Beam-Rickwa) and had a double wedding with Tony’s sister, Connie Beam (Vance) right after we graduated in 1968.  The two couples enjoyed many happy memories camping, hiking and enjoying the out of doors.  Tony and Pat were married for 10 years and had 2 children Kathy and Keri. Tony then married Debbie 85-94 and then was married to Alice until his death in March of 2007.  He added 1 daughter Candy Lynn and 2 step children.  He was blessed with 5 grand children.  His daughters remember that he had a special ability to connect with animals. He loved playing the harmonica, guitar and enjoyed listening to Johnny Cash music.  He was a farmer, a restaurant manager, but what he loved best was owning his own truck and driving long distance, especially with his wife, Alice.  His daughters remember lots of laughter, family time and enjoying his gentle spirit, especially in his final years."
   },
   {
     'name': {
@@ -706,6 +706,9 @@ const alumniBio = [
 ]
 
 const alumniAlbum = [
+  {
+    'image': "images/GSA1968.jpg"
+  },
   {
     'image': "images/IMG_8271.jpg"
   },

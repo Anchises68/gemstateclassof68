@@ -4,23 +4,24 @@ img {
 }
 
 .header-font-classof68 {
+  font-style: oblique;
   text-transform: uppercase;
   font-weight: bold;
-  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-width: 1.5px;
   -webkit-text-stroke-color: black;
 }
 
 .header-font {
   text-transform: uppercase;
   font-weight: bold;
-  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-width: 1.5px;
   -webkit-text-stroke-color: black;
 }
 
 .header-image {
 
   -webkit-filter: sepia(100%); /* Safari */
-  filter: grayscale(90%);
+  filter: grayscale(85%);
   opacity: 0.6;
 }
 
