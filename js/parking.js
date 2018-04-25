@@ -1,22 +1,24 @@
 import React from 'react';
-import PhotoModal from './photo-modal';
+import BioModal from './bio-modal';
 
-class Photos extends React.Component {
+
+
+class Bios extends React.Component {
   constructor(props) {
     super(props);
 
     this.state = {
       'modalOpen': false,
-      'selectedPhoto': this.props.photo[0]
+      'selectedBio': this.props.alumni[0]
     };
     this.openModal = this.openModal.bind(this);
     this.closeModal = this.closeModal.bind(this);
   }
 
-  openModal(evt, photo) {
+  openModal(evt, alumni) {
     this.setState({
       'modalOpen': true,
-      'selectedPhoto': photo
+      'selectedBio': alumni
     });
   }
 
@@ -29,39 +31,37 @@ class Photos extends React.Component {
   render() {
     return (
       <span>
-        {/* Reunion Photos Section */}
-        <div class="w3-container w3-padding-32" id="projects">
-          <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">Reunion Photos</h3>
+        {/*<!-- Classmate Section -->*/}
+        <div class="w3-container w3-padding-32" id="about">
+          <h2 class="w3-border-bottom w3-border-light-grey w3-padding-16">Classmates</h2>
+          <p></p>
         </div>
-
-        <div class="w3-row-padding">
-          { this.props.photo.map ( (photo, idx) => {
+        <div className="w3-row-padding w3-grayscale">
+          { this.props.alumni.map ( (alumni, idx) => {
             return (
-              <PhotoBubble photo={photo} key={idx} />
+              <BioBubble alumni={alumni} key={idx} openModal={this.openModal}/>
             )
           })
           }
         </div>
-        <PhotoModal photo={this.state.selectedPhoto} open={this.state.modalOpen} closeModal={this.closeModal}/>
-
+        <BioModal alumni={this.state.selectedBio} open={this.state.modalOpen} closeModal={this.closeModal}/>
       </span>
     )
   }
 }
 
-  class PhotoBubble extends React.Component {
-    render() {
-      let photo = this.props.photo;
-      return (
-        <div className="w3-col l3 m6 w3-margin-bottom">
-          <div className="w3-display-container">
-            <button className="w3-display-topleft w3-black w3-padding" onClick={ (evt) => this.props.openModal(evt, photo) }> Larger</button>
-            <img src={ photo.image } />
-          </div>
-        </div>
-      )
+class BioBubble extends React.Component {
+  render() {
+    let alumni = this.props.alumni;
+    return (
+      <div className="w3-col l2 m8 w3-margin-bottom">
+        <img  desc={ alumni.image.desc } src={ alumni.image.src } />
+        <h5>{ alumni.name }</h5>
+        <p><button className="w3-button w3-light-grey w3-block" onClick={ (evt) => this.props.openModal(evt, alumni) }> { alumni.name }'s Bio</button></p>
+      </div>
+     )
     }
   }
 
-export default Photos;
-export { PhotoBubble };
+export default Bios;
+export { BioBubble };

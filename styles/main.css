@@ -156,9 +156,9 @@ img {
 /*Photo Page Content Start*/
 /**************************/
 .photo-popup-content .reunion-image {
-    width: 50vw;
+    width: 70vw;
     height: auto;
-    margin-top: 3vw;
+    margin-top: 4vw;
     position: relative;
     left: 50%;
     transform: translate(-50%, 0);
@@ -171,7 +171,7 @@ img {
     display: inline-block;
     text-decoration: none;
     text-align: center;
-    font-size: 1vw;
+    font-size: 2vw;
     padding: 0.5vw 1vw;
     margin-top: 4vw;
     margin-bottom: 1vw;

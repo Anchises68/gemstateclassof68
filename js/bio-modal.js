@@ -11,7 +11,7 @@ class BioModal extends React.Component {
           <div className="popup-content">
             <img src={ alumni.image.src } className="profile-image"/>
             <img src={ alumni.image.biossrc } className="profile-image"/>
-            <h1 >About { alumni.name }</h1>
+            <h1 >About { alumni.name.first }</h1>
             <p className="about-me">{ alumni.bio }</p>
           </div>
           <a className="button w3-button w3-light-grey" onClick={ this.props.closeModal }>Close</a>
