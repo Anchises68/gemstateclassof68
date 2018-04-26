@@ -44,7 +44,8 @@ const alumniBio = [
     },
     'image': {
       'desc': "Caryn Loeffler Sjoren Photo",
-      'src': "images/CarynLoefflerSjoren.jpg"
+      'src': "images/CarynLoefflerSjoren.jpg",
+      'bioimg': "images/CarynLoefflerSjorenBio.jpg"
     },
     'bio': "After graduating from GSA, I began my college education at WWU, PUC and LLU, where I finished my degree in Physical Therapy.  During that time I was privileged to have Nancy Crisp Worley as a classmate and Donna Miracle-Judy was in the following class.  At LLU, I met my husband, Ken, who is a Dentist.  We live in Hermiston, OR and have celebrated our 45th anniversary last year.  We have 3 sons, a daughter and 4 grandchildren.  In our spare time we love camping, kayaking, motorcycling and bicycling as well as gardening.  One of my favorite trips was with NADAD (National Association of SDA Dentists) to visit and learn stories of our early Advent history.  Standing on “Ascension Rock”, getting a glimpse of how the pioneers felt Oct 22, 1844 when they expected the Lord to come.  This May/June we are looking forward to a trip with the GC Great Controversy Tour in Europe.  We will be studying as we visit various sites of the Reformation.  It is inspiring to me how these faithful believers stood victorious in the Lord.  My greatest desire is to faithful to the Lord, and I pray that our next reunion will find each one of us gathered by the Sea of Glass praising the Lord.  Caryn"
   },
@@ -111,7 +112,7 @@ const alumniBio = [
     'image': {
       'desc': "Dennis Mack Photo",
       'src': "images/DennisMack.jpg",
-      'biossrc': "images/DennisMack2.jpg"
+      'bioimg': "images/DennisMack2.jpg"
     },
     'bio': "Married Classmate (Sue Dousay) in 1969.  Drafted into the army and went to Vietnam.  After his tour of duty, they worked in Portland, Oregon,  Boise, McCall,  and Blackfoot, Idaho until 1986 and he was transferred to Provo Utah.  He lived there until his death in 2011.  Sue and Dennis have 1 daughter, Christy (born in 1976) and 1 grandson."
   },
@@ -199,7 +200,8 @@ const alumniBio = [
     },
     'image': {
       'desc': "Gary Wagner Photo",
-      'src': "images/GaryWagner.jpg"
+      'src': "images/GaryWagner.jpg",
+      'bioimg': "images/GaryWagnerBio.jpg"
     },
     'bio': "Married Linda in 1971 and have 3 children, two boys and a girl and 6 grandchildren.  He lost his oldest son, Todd at 33, in 2006 after complications after from a prior heart surgery.   His younger son and daughter and their families live close by.  After Graduation from Gem State, Gary went to work in logging, railroad and farming industries and currently the service manager of a Case IH farm equipment dealership for the past 27 years.  He has served as a town councilman and a mayor of Rockford for about 13 years and serving on the Housing and Community Development Advisory Committee as chair for Spokane County.  Linda and Gary attend the Summit Northwest Ministries SDA church in Post Falls, Idaho and find that the worship, friendship and encouragement there sustain them.  Their hobbies include riding their Spyder in the mountains with their son and grandson as often as possible and camping with  family and friends."
   },
@@ -333,7 +335,7 @@ const alumniBio = [
       'desc': "Kathy Van Komen Melendy Photo",
       'src': "images/KathyVanKomenMelendy.jpg"
     },
-    'bio': "Kathy was our classmate at Gem State our sophmore year and completed her education elsewhere.  She received a degree in Education and was actively teaching in some capacity for 44 years.  A highlight of her career was working with a below average school to bring up proficiency scores in language arts. No child had passed.  She helped revamp the program from grades K-8 and within 3 years 8 grader passing the proficiency!  Her school won the Nevada State Most improved School and then won a National Award for Most Improved School and they received the award from Mrs. Laura Busch in 2005.  CONGRATS, Kathy!  She has 3 children and 7 grandchildren and enjoys spending time with them and loves to travel"
+    'bio': "Kathy was our classmate at Gem State our sophmore year and completed her education elsewhere.  She received a degree in Education and was actively teaching in some capacity for 44 years.  A highlight of her career was working with a below average school to bring up proficiency scores in language arts. No child had passed.  She helped revamp the program from grades K-8 and within 3 years 8 grader passing the proficiency!  Her school won the Nevada State Most improved School and then won a National Award for Most Improved School and they received the award from Mrs. Laura Busch in 2005.  CONGRATS, Kathy!  She has 3 children and 7 grandchildren and enjoys spending time with them and loves to travel."
   },
   {
     'name': {
@@ -463,7 +465,8 @@ const alumniBio = [
      },
     'image': {
       'desc': "Noreen Thorgersen Krogstad Photo",
-      'src': "images/NoreenThorgersenKrogstad.jpg"
+      'src': "images/NoreenThorgersenKrogstad.jpg",
+      'bioimg': "images/NoreenBio.jpg"
     },
     'bio': "Graduated in Nursing from WWU in ‘72 and married Lester Riter.   They were involved in the Oregon Conference ministry for 7 years and then left the ministry to pursue a home construction business in Lincoln City, Oregon.  In 1983, they moved to Loma Linda, where Lester completed Dentistry.   Noreen and Lester had 2 children, Molly and Ben, but divorced in 1989.  Noreen did ICU, Neurology, med-surg and clinical nursing off and on during that time.  While at Loma Linda, Noreen Completed a Masters in Healthcare Administration and was a Community Clinic liaison between LLU and the VA Loma Linda for 10 years.  Noreen married Gary Krogstad in 1999 added 1 step son, Kevin and her son, Ben and his wife, Janella, add 3 grandchildren to her life.  After working 19 years at Loma Linda Health Care and Adventist Health and 14 years at the Loma Linda VA, she retired after a a 42 years in nursing in 2016 and is enjoying being ”Mimi”, traveling, playing the piano, reading, staying active and expanding her community of friends."
   },
@@ -474,19 +477,21 @@ const alumniBio = [
      },
     'image': {
       'desc': "Olof Regina Maronson Torfadottir Thoroddsen Photo",
-      'src': "images/OlofReginaMaronsonTorfadottirThoroddsen.jpg"
+      'src': "images/OlofReginaMaronsonTorfadottirThoroddsen.jpg",
+      'bioimg': "images/OlofReginaMaronsonTorfadottirThoroddsenBio.jpg"
 
     },
-    'bio': "Lives in Akureyri, Iceland *Went to Tyriford Heyere Skole (SDA school in Norway?).  Studied Dentistry at Haskoli Islands, graduating in 1978 *Studied Neuroanatomy at Karolinska Institute.  Mother to one daughter, Grandmother, Mother in Law, Mezzosoprano."
+    'bio': "Lives in Akureyri, Iceland.  Went to Tyriford Heyere Skole (SDA school in Norway?).  Studied Dentistry at Haskoli Islands, graduating in 1978. Studied Neuroanatomy at Karolinska Institute.  Mother to one daughter, Grandmother, Mother in Law, Mezzosoprano."
   },
   {
     'name': {
       'first': "Pam",
-      'last': "Franklin"
+      'last': "Franklin Loop"
      },
     'image': {
       'desc': "Pam Franklin Photo",
-      'src': "images/PamFranklinLoop.jpg"
+      'src': "images/PamFranklinLoop.jpg",
+      'bioimg': "images/PamFranklinLoopBio.jpg"
     },
     'bio': "Married Jerry Loop (GSA Class of ‘67) in 1970.  Attended WWU and completed Graduate degree in Mathematics from Boise State.  Had two children, Ben and Becky.  They also have 10 grandchildren.  Jerry has a stone and tile business in Caldwell and Pam has been actively involved in the business.  They are very involved in their grandchildren’s lives and their local church."
   },
@@ -542,7 +547,7 @@ const alumniBio = [
     'image': {
       'desc': "Robert Clark Photo",
       'src': "images/RobertClark.jpg",
-      'biossrc': "images/RobertClarkBio.jpg"
+      'bioimg': "images/RobertClarkBio.jpg"
     },
     'bio': "I graduated from PUC and completed my Masters of Divinity from Andrews.  My pastoral career began in Southern California in '73.  I then moved to Northern California Conference in 1980.  I pastored in Jackson/Sutter Creek, Eureka, Orangevale (Sacramento) and Red Bluff/Corning.  This last district will be my final one and I hope to retire in a year or two.  Ivy and I have six children and six grandkids between us.  They are scattered up and down the west coast from Alaska to San Diego.  The only one not on the coast is my youngest, Josh, who lives near Sandpoint.  We love to hike, bike (we have a tandem), still do some backpacking, golf and tend our five acre farm (large garden, 50+ fruit and nut trees).  My brother Larry, class of '71 is a neurosurgeon living in Riverside, CA.  Has two children.  Both mom and dad Clark have passed away.  Mom just in the last couple of months at the ripe old age of 97.  Should you want to contact me for any reason, our address is 9268 Hwy. 99E, Los Molinos, CA, 96055.  Telephone # is 530/586-1366.  Email is robert.clark@nccsda.com.  Blessings on you all.  Hope to see everyone of you in heaven."
   },
@@ -576,7 +581,8 @@ const alumniBio = [
      },
     'image': {
       'desc': "Sandra Williams Depner Photo",
-      'src': "images/SandraWilliamsDepner.jpg"
+      'src': "images/SandraWilliamsDepner.jpg",
+      'bioimg': "images/SandraWilliamsDepnerBio.jpg"
     },
     'bio': "We knew Sandra as Coleen at Gem State.   Sandra completed her Elementary Education degree at Walla Walla University in1973 and has taught elementary school in  Whittier, Los Angeles, Needles, California and Colville, Idaho.  She also taught in Las Vegas, Nevada.   She knew at 9 years old that she wanted to teach recently retired after a 41 year career, but still enjoys runs the library at Las Vegas Jr Academy and will substitute teach, as needed.  Sandra was a founding member of the Centennial Hills SDA in Las Vegas and remains very involved teaching the children’s story, greeting and bagging food for those less fortunate.  In retirement, she is enjoying reading, doing puzzles books, sewing, gardening and visiting friends in CA, CO, AR.   Her sister, Maureen also attended GSA and Sandra enjoys her 2 Nieces, 1 great neice and 1 great nephew.   Another great enjoyment is her 2 Furry Children, Molly (10) and Maddie (13) and she enjoys walking and dog sitting. What she learned at Gem State was how to teach.  She says what her teachers did or did not do influenced how she taught in her teaching career."
   },
