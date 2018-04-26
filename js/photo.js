@@ -32,7 +32,7 @@ class Photos extends React.Component {
         {/*Reunion Photos Section */}
         <div class="w3-container w3-padding-32" id="projects">
           <h2 class="w3-border-bottom w3-border-light-grey w3-padding-16">Reunion Photos</h2>
-          <p>Click on any photo to enlarge</p>
+          <p>Click on any photo for larger view.  You can download the files by clicking <a href="https://drive.google.com/open?id=1QpeccGdj8AIvo46BnkyA_3RJpzOJ4S67" target="_blank">here</a></p>
         </div>
         <section>
           <div class="w3-row-padding" >
