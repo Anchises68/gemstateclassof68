@@ -454,7 +454,8 @@ const alumniBio = [
      },
     'image': {
       'desc': "Nancy Crisp Worley Photo",
-      'src': "images/NancyCrispWorley.jpg"
+      'src': "images/NancyCrispWorley.jpg",
+      'bioimg': "images/NancyCrispWorleyBio.jpg"
     },
     'bio': "Nancy married George Worley in 1973.  They had 2 boys, Stephen and David.   Nancy is blessed with 6 grandchildren, (2 step, 4 foster and 1 more in the way).  George was a veteran passed away in 2007 from complications from Agent Orange.  Nancy completed a degree in Physical Therapy from LLU in 1972 and worked in Physical Therapy for 40 years that included acute care, rehab unit, Home Health Department Director, and private practice until her retirement in 2010.  Nancy enjoys making music (literally – luthier) and playing/singing music.  Nancy continues to carry a heart for missions that she shared with George.  Please see her bio for more information about the extensive work they have done at their local church and in India."
   },
@@ -605,7 +606,7 @@ const alumniBio = [
     'image': {
       'desc': "Sherilyn Ferrera Samaan Photo",
       'src': "images/SherilynFerreraSamaan.jpg",
-      'biossrc': "images/SherilynFerreraSamaan2.jpg"
+      'bioimg': "images/SherilynFerreraSamaanBio.jpg"
     },
     'bio': "Masters in Music Associate Degree in Nursing Married Phillip Samaan for 45 years 1 daughter & 2 grandchildren Missionaries in Africa and learned French at Collonges, France before moving to West African-Indian Ocean Division, headquartered in Abidjan  Continues music ministry, while husband does Pastoral, Teaching Religion & Theology (at Andrews and Southern Adventist University). Phillip also conducting Seminars and writing books (See Bio)"
   },
