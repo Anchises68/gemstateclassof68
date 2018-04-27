@@ -56,7 +56,8 @@ const alumniBio = [
     },
     'image': {
       'desc': "Clinton Schultz Photo",
-      'src': "images/ClintonSchultz.jpg"
+      'src': "images/ClintonSchultz.jpg",
+      'bioimg': "images/ClintonSchultzBio.jpg"
     },
     'bio': "Clinton married his Academy classmate and sweetheart, Linda Haugen in 1971. After graduating from GSA, Clinton attended Walla Walla College and then Seminary at Andrews University.  From 1975 to 2000, he served as pastor for Upper Columbia Conference.  In 2004, he received a clinical counseling degree from Eastern Washington University and founded Christian Counseling Northwest. In 2006, he was again employed by the Upper Columbia Conference where he continues to serve as pastor and counselor in a multi-parish ministry.  Clinton’s greatest pleasure is in sharing the good news of Jesus Christ as our Savior and soon coming King."
   },
@@ -617,18 +618,20 @@ const alumniBio = [
      },
     'image': {
       'desc': "Sue Dousay Mack Photo",
-      'src': "images/SueDousayMack.jpg"
+      'src': "images/SueDousayMack.jpg",
+      'bioimg': "images/SueDousayMackBio.jpg"
     },
     'bio': "Married Academy sweetheart, Dennis Mack (Class of ‘68).  After Dennis’s tour of duty, they moved to Portland, Oregon and then moved to the Boise area until 1986, when they were transferred to Utah.  They have one daughter, Christy, who was born in 1976 and 1 grandson.  Sue has been employed the last 10 years as a bookkeeper/office manager for an online photography retouching company."
   },
   {
     'name': {
-      'first': "Suzane",
+      'first': "Suzanne",
       'last': "Miller Shafer"
      },
     'image': {
       'desc': "Suzanne Miller Shafer Photo",
-      'src': "images/SuzanneMillerShafer.jpg"
+      'src': "images/SuzanneMillerShafer.jpg",
+      'bioimg': "images/SuzanneMillerShaferBio.jpg"
     },
     'bio': "Graduated from WWC in Nursing 1972.  Lives in Milton Freewater, Oregon and enjoys riding her motorcycle into the local Blue Mountains and eastern Oregon and Washington.  Held many positions in Psychiatric Nursing, was Director of Nursing – for a Psych facility."
   },

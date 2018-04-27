@@ -1,6 +1,5 @@
 img {
   width: 100%;
-
 }
 
 .header-font-classof68 {
@@ -19,7 +18,6 @@ img {
 }
 
 .header-image {
-
   -webkit-filter: sepia(100%); /* Safari */
   filter: grayscale(85%);
   opacity: 0.6;
