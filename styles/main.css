@@ -117,7 +117,7 @@ img {
     text-align: center;
     font-size: 1vw;
     padding: 1vw 2vw;
-    margin-top: 4vw;
+    margin-top: 2vw;
     margin-bottom: 1vw;
     color: #000000;
     border: 1px solid #000000;
@@ -168,7 +168,7 @@ img {
 .popup-content .bio-image {
     width: 50vw;
     height: auto;
-    margin-top: 3vw;
+    margin-top: 1vw;
     position: relative;
     left: 50%;
     transform: translate(-50%, 0);

@@ -43,7 +43,7 @@ describe("PhotoBubble component", () => {
   });
 
   it("Should call the openPhoto handler when clicked", () => {
-    component.find(".w3-button").simulate('click');
+    component.find(".reunion-image").simulate('click');
     expect(mockOpenModalFn).toHaveBeenCalled();
   });
 

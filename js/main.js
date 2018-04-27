@@ -516,7 +516,7 @@ const alumniBio = [
       'desc': "Patty Lovell (Beam) Rickwa Photo",
       'src': "images/PattyLovellBeamRickwa.jpg"
     },
-    'bio': "Married her high school sweetheart, Tony Beam, right after graduation and were married for 10 years.  During their marriage, they had 2 daughters, Kathy and Keri.   She completed nursing at Boise State in 1974.  Her work experience included Maternity, Night Supervisor in ER and was a school nurse in Nampa.  She particularly enjoyed working 10 years in Home Health and loved the one on one time with patients in their homes.  She married for the 2nd time in 1984 to Ted Rickwa and added a daughter and 3 step children to her life.   Patty’s great joy was being a grandmother to 6 grandchildren.   Patty was stricken with Hashimoto’s disease in her early 50s, which has impaired her ability to move and speak and last year moved to the Park Place Care facility in Nampa.  She continues to enjoy family and friends visiting her."
+    'bio': "Married her high school sweetheart, Tony Beam, right after graduation and were married for 10 years.  During their marriage, they had 2 daughters, Kathy and Keri.   She completed nursing at Boise State in 1974.  Her work experience included Maternity, Night Supervisor in ER and was a school nurse in Nampa.  She particularly enjoyed working 10 years in Home Health and loved the one on one time with patients in their homes.  She married for the 2nd time in 1984 to Ted Rickwa and added a daughter and 3 step children to her life.   Patty’s great joy was being a grandmother to 6 grandchildren.   Patty has lost much of her ability to speak and is impaired her ability to move. Last year the difficult decision was made to move Patty to the Park Place Care facility in Nampa, Idaho.  She continues to enjoy family and friends visiting her and reading letters that are sent to her."
   },
   {
     'name': {
@@ -714,7 +714,7 @@ const alumniBio = [
 
 const alumniAlbum = [
   {
-    'image': "images/GSA1968.jpg"
+    'image': "images/GSAClassof68.jpg"
   },
   {
     'image': "images/IMG_8271.jpg"
