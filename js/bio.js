@@ -56,7 +56,7 @@ class BioBubble extends React.Component {
     return (
       <div className="w3-col l2 m8 w3-margin-bottom">
         <img  desc={ alumni.image.desc } src={ alumni.image.src } className="profile-image" />
-        <h5>{ alumni.name.first } { alumni.name.last }</h5>
+        <h6 className="nameStyle">{ alumni.name.first } { alumni.name.last }</h6>
         <p><button className="w3-button w3-light-grey w3-block" onClick={ (evt) => this.props.openModal(evt, alumni) }> { alumni.name.first }'s Bio</button></p>
       </div>
      )
